@@ -25,7 +25,8 @@ function App() {
         </div>
         <div>
           <p className="text-white text-4xl m-2 p-2" id="searchResult">
-            {city}
+            {/* {city} */}
+            Potato
           </p>
           <button className="text-black bg-slate-200 m-2 p-8 text-4xl rounded-md" onClick={()=>{copyResult()}}>Copy</button>
         </div>
